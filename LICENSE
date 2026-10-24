@@ -1,0 +1,29 @@
+SoNiC_0game — Copyright (c) 2026 sonicfr-jpg. All Rights Reserved.
+
+The author (sonicfr-jpg) is the sole rights holder of this software, its
+documentation and its original images and texts.
+
+Permission is granted, free of charge, to any person to:
+  - install the script in a userscript manager (Tampermonkey, Violentmonkey...)
+    and use it for personal, non-commercial purposes on their own OGame account;
+  - read the source code for personal study and verification purposes (for
+    example by the OGame ToolDev team and by users who want to check what the
+    script does).
+
+Without the prior written permission of the author, it is forbidden to:
+  - copy, modify, adapt, translate, merge, or create derivative works of the software;
+  - redistribute, republish, host, sublicense, sell or rent the software or any
+    part of it, in source or compiled form, under any name;
+  - remove or alter this notice or the author's name.
+
+Any change to the software or to the terms of this license must be approved by
+the author. Contributions and suggestions (for example through GitHub Issues)
+are welcome; by sending them, the contributor agrees that the author may use
+them freely, and that any accepted change remains the author's decision.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY
+CONSEQUENCE OF A BREACH OF THE OGAME TERMS OF SERVICE, ARISING FROM, OUT OF OR
+IN CONNECTION WITH THE SOFTWARE OR ITS USE.
